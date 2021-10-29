@@ -88,7 +88,6 @@ align-items: center;
 }
 .two-columns {
 margin: 0;
-margin: 0;
 display: flex;
 justify-content: space-between;
 width: 80%;
@@ -279,7 +278,7 @@ color: white;
 background-image: url(../images/kaufman-triangle.svg);
 background-repeat: no-repeat;
 background-size: 879px 879px;
-background-size: cover  ;
+background-size: cover;
 width: 879px;
 height: 879px;
 position: absolute;
