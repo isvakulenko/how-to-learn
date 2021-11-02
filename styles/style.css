@@ -83,7 +83,7 @@
 }
 .description {
   margin: 0;
-  padding: 100px 0;
+  padding-top: 100px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -289,6 +289,7 @@
   margin: 0;
   padding: 60px 0 40px 0;
   background-color: #1f1f1f;
+  box-sizing: border-box;
   min-height: 350px;
   display: flex;
   justify-content: center;
@@ -329,7 +330,6 @@
 .footer__column-heading {
   margin: 0;
   padding: 0;
-  margin-bottom: 20px;
   color: white;
   line-height: 30px;
   font-size: 18px;
