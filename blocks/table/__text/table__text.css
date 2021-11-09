@@ -1,0 +1,13 @@
+.table__text {
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: 20px;
+  margin-left: 0;
+  padding: 0;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+}
+.table__text:last-child {
+  margin-bottom: 0;
+}
