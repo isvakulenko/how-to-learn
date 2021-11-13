@@ -8,3 +8,16 @@
   z-index: 1;
   overflow: hidden;
 }
+
+.header::after {
+  height: 568px;
+  width: 568px;
+  background: #2f80ed;
+  position: absolute;
+  right: 0px;
+  top: 64px;
+  z-index: -2;
+  content: "";
+  animation: rotation  linear 20s infinite;
+}
+
