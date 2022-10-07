@@ -1,4 +1,4 @@
-<h1 align="center"><a  href="https://isvakulenko.github.io/how-to-learn/index.html" target="_blank"><img src="https://github.com/isvakulenko/how-to-learn/blob/main/images/logo.PNG" width="100%" alt="Логотип how to learn"></a></h1>
+<h1 align="center"><a  href="https://isvakulenko.github.io/how-to-learn/index.html" target="_blank"><img src="https://github.com/isvakulenko/how-to-learn/blob/main/images/Logo.PNG" width="100%" alt="Логотип how to learn"></a></h1>
 
 # <a id="top" />Яндекс.Практикум, курс "Веб разработчик плюс".
 ## Проектная работа 1 месяц (проектная работа № 1-2).
